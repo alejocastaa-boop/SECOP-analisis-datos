@@ -1,2 +1,2 @@
 # SECOP-analisis-datos
-Análisis y clustering de contratación pública colombiana
+Análisis de contratación pública colombiana (SECOP II) — limpieza, reducción dimensionalidad, clustering y detección de anomalías
