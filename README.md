@@ -1,7 +1,6 @@
 # Minería de datos aplicada a la contratación pública en Colombia: análisis del SECOP II
 
-Proyecto de Investigación Formativa — Curso de Minería de Datos
-Institución Universitaria Politécnico Grancolombiano
+
 
 ## Descripción
 
@@ -30,8 +29,6 @@ secop-analisis-datos/
 ## Datos
 
 Dataset: SECOP II - Contratos Electrónicos, publicado por Colombia Compra Eficiente en el portal de Datos Abiertos Colombia.
-
-https://www.datos.gov.co/Estadisticas-Nacionales/SECOP-II-Contratos-Electronicos/jbjy-vk9h/explore
 
 902.040 registros iniciales, 18 variables (4 categóricas nominales, 10 binarias, 4 cuantitativas). Después de filtrar outliers con Z-score robusto quedaron 889.087 registros.
 
